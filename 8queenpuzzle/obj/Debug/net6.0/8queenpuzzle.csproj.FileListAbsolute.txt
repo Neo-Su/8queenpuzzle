@@ -1,0 +1,15 @@
+D:\8queenpuzzle\8queenpuzzle\bin\Debug\net6.0\8queenpuzzle.exe
+D:\8queenpuzzle\8queenpuzzle\bin\Debug\net6.0\8queenpuzzle.deps.json
+D:\8queenpuzzle\8queenpuzzle\bin\Debug\net6.0\8queenpuzzle.runtimeconfig.json
+D:\8queenpuzzle\8queenpuzzle\bin\Debug\net6.0\8queenpuzzle.dll
+D:\8queenpuzzle\8queenpuzzle\bin\Debug\net6.0\8queenpuzzle.pdb
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.csproj.AssemblyReference.cache
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.AssemblyInfoInputs.cache
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.AssemblyInfo.cs
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.csproj.CoreCompileInputs.cache
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.dll
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\refint\8queenpuzzle.dll
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.pdb
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\8queenpuzzle.genruntimeconfig.cache
+D:\8queenpuzzle\8queenpuzzle\obj\Debug\net6.0\ref\8queenpuzzle.dll
